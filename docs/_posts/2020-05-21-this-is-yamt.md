@@ -15,4 +15,11 @@ Both 454 FLX libraries and long mate paired libraries (SOLiD) were sequences, bu
 program properly supporting color space mate paired libraries was a problem. So I wrote ScaMPI, a suite of
 tools to automatically and manually (!) scaffold the genome.
 
-To read more, check out my [PhD thesis](https://www.research.unipd.it/handle/11577/3422939?1/Thesis_last.pdf).
+* To read more, check out my [**PhD thesis**](https://www.research.unipd.it/handle/11577/3422939?1/Thesis_last.pdf).
+* Code is in the [ScaMPI repository](https://github.com/telatin/scampi), for archival purposes **only**.
+
+## Screenshots and images
+
+[![Scampi](/scampi-1.16/images/image13.png)](https://telatin.github.io/scampi/)
+
+[![Scampi](/scampi-1.16/images/image12.png)](https://telatin.github.io/scampi/)

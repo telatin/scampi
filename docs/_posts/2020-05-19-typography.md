@@ -49,6 +49,7 @@ Reference: [GitHub flavored Markdown](https://help.github.com/en/github/writing-
 {% endhighlight %}
 
 ## Links
+
 Theme designed by [Alessio Franceschi](https://alessiofranceschi.me).
 {% highlight markdown %}
 Theme designed by [Alessio Franceschi](https://alessiofranceschi.me).
