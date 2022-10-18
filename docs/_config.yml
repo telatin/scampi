@@ -1,12 +1,12 @@
 # Site settings
-title: YAMT
-description: "Yet Another Minimal Theme"
-url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
+title: ScaMPI
+description: "Scaffolding using SOLiD Mate Pairs"
+url:  "https://telatin.github.io/scampi/" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  name: "Andrea Telatin"
+  email: "andreatelati.n@gmail.com"
+  url: "https://telatin.github.io"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
@@ -18,18 +18,14 @@ paginate_path: "/page:num/"
 
 #SEO
 twitter:
-  username: pandasekh
+  username: telatin
   card: summary
-facebook:
-  app_id: # Facebook app ID for Facebook insights
-  publisher: # Facebook page URL or ID of the publishing entity
-  admins: # Facebook user ID for domain insights linked to a personal account
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+    - https://twitter.com/telatin
+    - https://www.github.com/telatin
+    - https://www.linkedin.com/in/andrea-telatin/
 webmaster_verifications:
   google: 
   bing: 

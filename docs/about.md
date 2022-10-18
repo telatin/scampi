@@ -3,5 +3,9 @@ layout: default
 title: About
 ---
 
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-See [Github](https://github.com/PandaSekh/Jekyll-YAMT).
+## [ScaMPI](https://github.com/telatin/scampi)
+
+This [Github repository](https://github.com/telatin/scampi) archives
+some scripts produced during my PhD and some of the documentation.
+
+**It's not meant to be used in any project.**
