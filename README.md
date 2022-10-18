@@ -15,6 +15,7 @@ ScaMPI includes:
 * A telomeric repeat identification and analysis tool to flag the telomeres in the assemblies
 * A tool to validate the scaffolds using Sanger sequences BAC-Ends libraries
 * A web interface to manually inspect each contig, their connections, their place in the scaffold, to perform BLAST and primer picking
+* an [online manual](https://telatin.github.io/scampi/scampi-1.16/ScaMPIManual_AndreaTelatin_.html)
 
 ## Documents
 
