@@ -2,8 +2,6 @@
 title: Getting Started
 layout: post
 categories: [How-To, Markdown]
-image: /assets/img/airplane.jpg
-#gif: mygif
 description: "Let's get this theme to work!"
 customexcerpt: "Learn how to write a post in YAMT."
 ---
