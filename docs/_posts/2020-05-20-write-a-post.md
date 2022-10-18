@@ -1,22 +1,12 @@
 ---
-title: Getting Started
+title: Online documentation
 layout: post
-categories: [How-To, Markdown]
+categories: [scampi, documentation]
 description: "Let's get this theme to work!"
-customexcerpt: "Learn how to write a post in YAMT."
+customexcerpt: "Extra info."
 ---
 
-### Front Matter
-Example of a full Front Matter:
-{% highlight yaml %}
-title: Hello World   
-layout: post
-categories: [Hello, World]
-tags: [hello, world]
-image: /assets/img/helloworld.jpg
-gif: mygif (Only write the name of the file. No extension. The files needs to be in "/assets/gif")
-description: "Say hello to the world!"
-customexcerpt: "Custom excerpt for the homepage"
-{% endhighlight %}
+### Manual
 
-Tags can be used but are pretty much useless, as related posts use categories.
+ScaMPI was made with a manual, which can be found in the [repository](https://github.com/telatin/scampi)
+or [*browsed online*](https://telatin.github.io/scampi/scampi-1.16/ScaMPIManual_AndreaTelatin_.html)

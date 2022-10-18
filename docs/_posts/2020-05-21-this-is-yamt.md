@@ -18,8 +18,17 @@ tools to automatically and manually (!) scaffold the genome.
 * To read more, check out my [**PhD thesis**](https://www.research.unipd.it/handle/11577/3422939?1/Thesis_last.pdf).
 * Code is in the [ScaMPI repository](https://github.com/telatin/scampi), for archival purposes **only**.
 
-## Screenshots and images
+## Web interface
 
-[![Scampi](/scampi-1.16/images/image13.png)](https://telatin.github.io/scampi/)
+Home page of the ScaMPI web interface.
 
-[![Scampi](/scampi-1.16/images/image12.png)](https://telatin.github.io/scampi/)
+[![Scampi]({{site.baseurl}}/scampi-1.16/images/image13.png)](https://telatin.github.io/scampi/)
+
+Extension of a "seed" contig, the output will include the orientation listed as `C` (complemented) or `U` (uncomplemented).
+
+[![Scampi]({{site.baseurl}}/scampi-1.16/images/image12.png)](https://telatin.github.io/scampi/)
+
+View of a single contig. All the possible connections are listed below, but the flanking contigs
+are the reasonable possibilities (noise is filtered)
+
+[![Scampi]({{site.baseurl}}/scampi-1.16/images/image10.png)](https://telatin.github.io/scampi/)
