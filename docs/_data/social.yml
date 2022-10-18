@@ -1,9 +1,10 @@
-# These are the socials supported by default. If you want to add one which isn't present, find the icon name on https://fontawesome.com/
+# These are the socials supported by default. If you want to add one which isn't present, 
+# find the icon name on https://fontawesome.com/
 # and add it's color in /_sass/social.scss. Brand defines Font Awesome's font type (fas is solid, fab is brand).
 
 
 social:
   - {icon: 'github', type: "brand", link: 'https://www.github.com/telatin'}
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/telatin'}
-  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/andrea-telatin/'}
+  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/andreatelatin/'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}

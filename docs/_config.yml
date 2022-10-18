@@ -1,7 +1,7 @@
 # Site settings
 title: ScaMPI
 description: "Scaffolding using SOLiD Mate Pairs"
-url:  "https://telatin.github.io/scampi/" # Actual base url of the website
+url:  "https://telatin.github.io/" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Andrea Telatin"
@@ -25,7 +25,7 @@ social:
   links: #List your social links here
     - https://twitter.com/telatin
     - https://www.github.com/telatin
-    - https://www.linkedin.com/in/andrea-telatin/
+    - https://www.linkedin.com/in/andreatelatin/
 webmaster_verifications:
   google: 
   bing: 
