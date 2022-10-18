@@ -2,6 +2,7 @@
 title: Scaffolding
 layout: post
 categories: [scampi, scaffolding]
+image: /scampi-1.16/images/image1.png
 description: "Some flash ideas on how to scaffold a genome"
 customexcerpt: "Some infos on scaffolding"
 ---
